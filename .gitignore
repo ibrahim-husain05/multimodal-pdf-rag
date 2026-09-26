@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+.env
+.streamlit/secrets.toml
+
+db/
+extracted_images/
+
+documents/*
+!documents/.gitkeep
+
+tempCodeRunnerFile.py
